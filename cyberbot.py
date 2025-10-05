@@ -18,7 +18,7 @@ from pyrogram.types import (
 # -----------------------------
 API_ID = 23625611
 API_HASH = "40f58ed9f6f677c588851e2251830d62"
-BOT_TOKEN = "8162720813:AAGpSfe8-gOmlb7VTXwUwP9tpUvj4GBLVxA"
+BOT_TOKEN = "7958047732:AAHPKKGTZ2xnoibJER_XMknqWEsteME9yrw"
 OWNER_ID = 7090863962
 
 # start with NO demo keys
